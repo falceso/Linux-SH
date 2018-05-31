@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #Purpose = Remove Apache and Mysql and replace with better alternatives.
 #Created on 11-22-2017
