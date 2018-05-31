@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir /backups/$(date '+%b-%d-%Y-%H')
 cd /srv/daemon-data
 
